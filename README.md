@@ -1,5 +1,6 @@
 # ContextLingo Bot
 @ContextLingoBot via Telegram ( https://t.me/ContextLingoBot )
+
 ContextLingo Bot is a Telegram bot built with Spring Boot that helps users learn English and Romanian. The bot's interface is in Russian and it uses the free Gemini AI API.
 
 ## Stack
